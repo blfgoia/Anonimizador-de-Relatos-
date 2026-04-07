@@ -24,4 +24,4 @@ A solução utiliza uma arquitetura orientada a eventos. Quando um novo arquivo 
 ## Autor
 
 Bruno Luiz Ferreira  
-PUC Goiás – Escola Politécnica e de Artes
+PUC Goiás – Escola Politécnica e de Artes  
