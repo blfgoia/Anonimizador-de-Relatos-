@@ -27,4 +27,4 @@ O serviço realiza o processamento do texto, identifica dados sensíveis e gera 
 ## Autor
 
 Bruno Luiz Ferreira  
-PUC Goiás – Escola Politécnica e de Artes
+PUC Goiás – Escola Politécnica e de Artes  
