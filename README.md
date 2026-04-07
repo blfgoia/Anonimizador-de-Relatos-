@@ -24,6 +24,18 @@ O serviço realiza o processamento do texto, identifica dados sensíveis e gera 
 - `requirements.txt` – dependências do projeto
 - `docs/` – diagramas da arquitetura e pipeline
 
+- ## Execução do projeto
+
+1. Instale as dependências:
+
+pip install -r requirements.txt
+
+2. Configure as credenciais do Google Cloud.
+
+3. Envie um arquivo de relato para o bucket configurado no Cloud Storage.
+
+4. O sistema irá processar automaticamente o texto, anonimizar os dados sensíveis e gerar um novo arquivo juntamente com os metadados do processamento.
+
 ## Autor
 
 Bruno Luiz Ferreira  
