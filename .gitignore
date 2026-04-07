@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Google Cloud
+service-account.json
+
+# arquivos de teste
+*.txt
+
+# saída do processamento
+anonimizados/
+metadados/
+
+
